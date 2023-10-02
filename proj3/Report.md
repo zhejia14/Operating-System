@@ -16,7 +16,7 @@ sys :程式執行在 kernel space 的時間，在 kernel mode 下的耗時 <br/>
 |4 |3\.479 |
 |6 |5\.536 |
 
-<img width="150" height="150" src="Pic/002.png"/>
+<img width="300" height="200" src="Pic/002.png"/>
 
 
 在相同後六位的精確度下，程式得到線性加速。 
