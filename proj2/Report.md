@@ -12,4 +12,4 @@ stdin\_read  進行反組譯
 %rbp 0x10(input size 1 )放入％rdx
 
 
-<img width="400" height="500" src="Pic/002.png"/>
+<img width="500" height="500" src="Pic/002.png"/>
