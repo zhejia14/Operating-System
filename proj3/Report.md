@@ -16,7 +16,7 @@ sys :程式執行在 kernel space 的時間，在 kernel mode 下的耗時 <br/>
 |4 |3\.479 |
 |6 |5\.536 |
 
-![](Pic/Aspose.Words.b843176b-538f-43ed-84ef-766c565c2881.002.png)
+![](Pic/002.png)
 
 
 在相同後六位的精確度下，程式得到線性加速。 
